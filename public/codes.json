@@ -1,0 +1,194 @@
+[
+  {
+    "code": 6,
+    "description": "Оплата по окладам",
+    "core": "basis",
+    "condition": "income"
+  },
+  {
+    "code": 9,
+    "description": "Оплата дня отдыха донорам",
+    "core": "alternate",
+    "condition": "income"
+  },
+  {
+    "code": 22,
+    "description": "Оплата безвозм.донорство",
+    "core": "alternate",
+    "condition": "income"
+  },
+  {
+    "code": 30,
+    "description": "Оплата за замещение",
+    "core": "awards",
+    "condition": "income"
+  },
+  {
+    "code": 39,
+    "description": "Надбавка за стаж",
+    "core": "basis",
+    "condition": "income"
+  },
+  {
+    "code": 46,
+    "description": "Коэфф.труд.участия",
+    "core": "awards",
+    "condition": "income"
+  },
+  {
+    "code": 50,
+    "description": "Премия руководителя",
+    "core": "awards",
+    "condition": "income"
+  },
+  {
+    "code": 51,
+    "description": "Надбавка за важность",
+    "core": "basis",
+    "condition": "income"
+  },
+  {
+    "code": 70,
+    "description": "Отсутст.по ув.причине",
+    "core": "alternate",
+    "condition": "income"
+  },
+  {
+    "code": 77,
+    "description": "Уволнит. по личному (ч.)",
+    "core": "alternate",
+    "condition": "income"
+  },
+  {
+    "code": 103,
+    "description": "Оплата трудового отпуска",
+    "core": "basis",
+    "condition": "income"
+  },
+  {
+    "code": 106,
+    "description": "Оплата отпуска за ненорм.",
+    "core": "basis",
+    "condition": "income"
+  },
+  {
+    "code": 118,
+    "description": "Оплата отпуска по иниц.наним.",
+    "core": "basis",
+    "condition": "income"
+  },
+  {
+    "code": 200,
+    "description": "Оплата командировок",
+    "core": "basis",
+    "condition": "income"
+  },
+  {
+    "code": 205,
+    "description": "Доплата за перевод",
+    "core": "basis",
+    "condition": "income"
+  },
+  {
+    "code": 208,
+    "description": "Прогресс.премия",
+    "core": "basis",
+    "condition": "income"
+  },
+  {
+    "code": 216,
+    "description": "Премия по итогам года",
+    "core": "awards",
+    "condition": "income"
+  },
+  {
+    "code": 301,
+    "description": "Доплата за раб. в вых.",
+    "core": "alternate",
+    "condition": "income"
+  },
+  {
+    "code": 302,
+    "description": "Оплата за вып гос обязан",
+    "core": "alternate",
+    "condition": "income"
+  },
+  {
+    "code": 314,
+    "description": "Премия к празднику",
+    "core": "awards",
+    "condition": "income"
+  },
+  {
+    "code": 400,
+    "description": "Премия участникам спартакиады",
+    "core": "awards",
+    "condition": "income"
+  },
+  {
+    "code": 558,
+    "description": "Мат.помощь",
+    "core": "awards",
+    "condition": "income"
+  },
+  {
+    "code": 560,
+    "description": "Мат.помощь на с/х прод.",
+    "core": "awards",
+    "condition": "income"
+  },
+  {
+    "code": 561,
+    "description": "Мат.помощь к празднику",
+    "core": "awards",
+    "condition": "income"
+  },
+  {
+    "code": 564,
+    "description": "Компенсация проезда",
+    "core": "alternate",
+    "condition": "income"
+  },
+  {
+    "code": 900,
+    "description": "Подоходный налог",
+    "core": "basis",
+    "condition": "outcome"
+  },
+  {
+    "code": 902,
+    "description": "Выплата аванса",
+    "core": "basis",
+    "condition": "outcome"
+  },
+  {
+    "code": 908,
+    "description": "Пенсионный фонд",
+    "core": "basis",
+    "condition": "outcome"
+  },
+  {
+    "code": 909,
+    "description": "Питание в кредит",
+    "core": "alternate",
+    "condition": "outcome"
+  },
+  {
+    "code": 910,
+    "description": "Профсоюзный взнос",
+    "core": "basis",
+    "condition": "outcome"
+  },
+  {
+    "code": 927,
+    "description": "Перечисление на с/кассу",
+    "core": "awards",
+    "condition": "outcome"
+  },
+  {
+    "code": 960,
+    "description": "Пенсионный фонд",
+    "core": "basis",
+    "condition": "outcome"
+  }
+]

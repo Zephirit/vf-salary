@@ -1,0 +1,2825 @@
+{
+	"company": "ОАО «МЭТЗ» им. В.И.Козлова",
+	"id": 56136,
+	"name": "Кацер С. В.",
+	"job": "инженер-конструктор",
+	"cards": [
+		{
+			"date": "2020,03",
+			"mp": 216,
+			"oklad": 693.93,
+			"kurs": 2.515,
+			"payments": [{
+					"code": 6,
+					"time": 20.56,
+					"value": 648.51
+				},
+				{
+					"code": 39,
+					"time": 20.56,
+					"value": 64.85
+				},
+				{
+					"code": 46,
+					"value": 99.99
+				},
+				{
+					"code": 50,
+					"value": 144
+				},
+				{
+					"code": 51,
+					"time": 20.56,
+					"value": 64.85
+				},
+				{
+					"code": 70,
+					"time": 1
+				},
+				{
+					"code": 77,
+					"time": 1.45
+				},
+				{
+					"code": 208,
+					"value": 300.42
+				},
+				{
+					"code": 302,
+					"time": 0.26,
+					"value": 16.4
+				},
+				{
+					"code": 400,
+					"value": 35
+				},
+				{
+					"code": 900,
+					"value": 178.62
+				},
+				{
+					"code": 902,
+					"value": 265.08
+				},
+				{
+					"code": 908,
+					"value": 13.74
+				},
+				{
+					"code": 909,
+					"value": 13.43
+				},
+				{
+					"code": 910,
+					"value": 13.74
+				}
+			]
+		},
+		{
+			"date": "2020,02",
+			"mp": 216,
+			"oklad": 693.93,
+			"kurs": 2.25,
+			"payments": [{
+					"code": 6,
+					"time": 17.86,
+					"value": 619.68
+				},
+				{
+					"code": 39,
+					"time": 17.86,
+					"value": 61.97
+				},
+				{
+					"code": 46,
+					"value": 93.15
+				},
+				{
+					"code": 50,
+					"value": 50
+				},
+				{
+					"code": 51,
+					"time": 17.86,
+					"value": 61.97
+				},
+				{
+					"code": 77,
+					"time": 1.12
+				},
+				{
+					"code": 208,
+					"value": 215.55
+				},
+				{
+					"code": 301,
+					"time": 3,
+					"value": 104.09
+				},
+				{
+					"code": 558,
+					"value": 54
+				},
+				{
+					"code": 900,
+					"value": 172.04
+				},
+				{
+					"code": 902,
+					"value": 243.71
+				},
+				{
+					"code": 908,
+					"value": 12.06
+				},
+				{
+					"code": 909,
+					"value": 0.89
+				},
+				{
+					"code": 910,
+					"value": 12.06
+				}
+			]
+		},
+		{
+			"date": "2020,01",
+			"mp": 162,
+			"oklad": 636.1,
+			"kurs": 2.13,
+			"payments": [{
+					"code": 6,
+					"time": 13.98,
+					"value": 444.63
+				},
+				{
+					"code": 39,
+					"time": 13.98,
+					"value": 44.46
+				},
+				{
+					"code": 46,
+					"value": 138.97
+				},
+				{
+					"code": 50,
+					"value": 50
+				},
+				{
+					"code": 51,
+					"time": 13.98,
+					"value": 44.46
+				},
+				{
+					"code": 77,
+					"time": 0.2
+				},
+				{
+					"code": 103,
+					"time": 15,
+					"value": 665.44
+				},
+				{
+					"code": 208,
+					"value": 250.24
+				},
+				{
+					"code": 558,
+					"value": 162
+				},
+				{
+					"code": 900,
+					"value": 197.76
+				},
+				{
+					"code": 902,
+					"value": 248.16
+				},
+				{
+					"code": 908,
+					"value": 13.28
+				},
+				{
+					"code": 909,
+					"value": 0.42
+				},
+				{
+					"code": 910,
+					"value": 16.38
+				},
+				{
+					"code": 927,
+					"value": 727.62
+				},
+				{
+					"code": 960,
+					"value": 3.11
+				}
+			]
+		},
+		{
+			"date": "2019,12",
+			"mp": 383,
+			"oklad": 636.1,
+			"kurs": 2.13,
+			"payments": [{
+					"code": 6,
+					"time": 18.31,
+					"value": 554.62
+				},
+				{
+					"code": 9,
+					"time": 2,
+					"value": 119.56
+				},
+				{
+					"code": 39,
+					"time": 18.31,
+					"value": 55.46
+				},
+				{
+					"code": 46,
+					"value": 93.19
+				},
+				{
+					"code": 50,
+					"value": 60
+				},
+				{
+					"code": 51,
+					"time": 18.31,
+					"value": 55.46
+				},
+				{
+					"code": 77,
+					"time": 2.88
+				},
+				{
+					"code": 208,
+					"value": 223.21
+				},
+				{
+					"code": 561,
+					"value": 150
+				},
+				{
+					"code": 900,
+					"value": 135.45
+				},
+				{
+					"code": 902,
+					"value": 240.16
+				},
+				{
+					"code": 908,
+					"value": 11.92
+				},
+				{
+					"code": 909,
+					"value": 92.21
+				},
+				{
+					"code": 910,
+					"value": 10.42
+				},
+				{
+					"code": 927,
+					"value": 150
+				}
+			]
+		},
+		{
+			"date": "2019,11",
+			"mp": 0,
+			"oklad": 636.1,
+			"kurs": 2.13,
+			"payments": [{
+					"code": 6,
+					"time": 13.64,
+					"value": 433.82
+				},
+				{
+					"code": 22,
+					"time": 1,
+					"value": 57.22
+				},
+				{
+					"code": 30,
+					"time": 5.96,
+					"value": 66.43
+				},
+				{
+					"code": 39,
+					"time": 13.64,
+					"value": 50.02
+				},
+				{
+					"code": 46,
+					"value": 120.67
+				},
+				{
+					"code": 50,
+					"value": 60
+				},
+				{
+					"code": 51,
+					"time": 13.64,
+					"value": 43.38
+				},
+				{
+					"code": 77,
+					"time": 2.88
+				},
+				{
+					"code": 103,
+					"time": 5,
+					"value": 217.49
+				},
+				{
+					"code": 200,
+					"time": 1,
+					"value": 57.17
+				},
+				{
+					"code": 208,
+					"value": 227.65
+				},
+				{
+					"code": 564,
+					"value": 5.3
+				},
+				{
+					"code": 900,
+					"value": 165.96
+				},
+				{
+					"code": 902,
+					"value": 242.98
+				},
+				{
+					"code": 908,
+					"value": 13.39
+				},
+				{
+					"code": 909,
+					"value": 24.4
+				},
+				{
+					"code": 910,
+					"value": 13.39
+				},
+				{
+					"code": 927,
+					"value": 190.17
+				}
+			]
+		},
+		{
+			"date": "2019,10",
+			"mp": 0,
+			"oklad": 636.1,
+			"kurs": 2.02,
+			"payments": [{
+					"code": 6,
+					"time": 18.64,
+					"value": 433.82
+				},
+				{
+					"code": 9,
+					"time": 1,
+					"value": 23.09
+				},
+				{
+					"code": 39,
+					"time": 18.64,
+					"value": 51.55
+				},
+				{
+					"code": 46,
+					"value": 121.08
+				},
+				{
+					"code": 50,
+					"value": 90
+				},
+				{
+					"code": 51,
+					"time": 18.64,
+					"value": 51.55
+				},
+				{
+					"code": 77,
+					"time": 2.88
+				},
+				{
+					"code": 103,
+					"time": 1,
+					"value": 43.5
+				},
+				{
+					"code": 200,
+					"time": 2,
+					"value": 114.44
+				},
+				{
+					"code": 208,
+					"value": 263.78
+				},
+				{
+					"code": 564,
+					"value": 10.6
+				},
+				{
+					"code": 900,
+					"value": 162.68
+				},
+				{
+					"code": 902,
+					"value": 247.67
+				},
+				{
+					"code": 908,
+					"value": 12.62
+				},
+				{
+					"code": 909,
+					"value": 24.48
+				},
+				{
+					"code": 910,
+					"value": 12.62
+				},
+				{
+					"code": 927,
+					"value": 47.58
+				}
+			]
+		},
+		{
+			"date": "2019,9",
+			"mp": 217.9,
+			"oklad": 636.1,
+			"kurs": 2.05,
+			"payments": [{
+					"code": 6,
+					"time": 19.3,
+					"value": 584.61
+				},
+				{
+					"code": 39,
+					"time": 19.3,
+					"value": 58.46
+				},
+				{
+					"code": 46,
+					"value": 136.05
+				},
+				{
+					"code": 50,
+					"value": 90
+				},
+				{
+					"code": 51,
+					"time": 19.3,
+					"value": 58.46
+				},
+				{
+					"code": 77,
+					"time": 5.58
+				},
+				{
+					"code": 103,
+					"time": 1,
+					"value": 43.49
+				},
+				{
+					"code": 200,
+					"time": 1,
+					"value": 57.24
+				},
+				{
+					"code": 208,
+					"value": 285.97
+				},
+				{
+					"code": 301,
+					"time": 1,
+					"value": 30.29
+				},
+				{
+					"code": 314,
+					"value": 80
+				},
+				{
+					"code": 560,
+					"value": 30
+				},
+				{
+					"code": 564,
+					"value": 15.9
+				},
+				{
+					"code": 900,
+					"value": 179.99
+				},
+				{
+					"code": 902,
+					"value": 261.15
+				},
+				{
+					"code": 908,
+					"value": 14.3
+				},
+				{
+					"code": 909,
+					"value": 4.29
+				},
+				{
+					"code": 910,
+					"value": 14
+				},
+				{
+					"code": 927,
+					"value": 82.87
+				}
+			]
+		},
+		{
+			"date": "2019,8",
+			"mp": 383.8,
+			"oklad": 636.1,
+			"kurs": 2.09,
+			"payments": [{
+					"code": 6,
+					"time": 21.92,
+					"value": 633.79
+				},
+				{
+					"code": 39,
+					"time": 21.92,
+					"value": 63.38
+				},
+				{
+					"code": 46,
+					"value": 150.55
+				},
+				{
+					"code": 50,
+					"value": 45
+				},
+				{
+					"code": 51,
+					"time": 21.92,
+					"value": 63.38
+				},
+				{
+					"code": 77,
+					"time": 0.65
+				},
+				{
+					"code": 208,
+					"value": 238.61
+				},
+				{
+					"code": 560,
+					"value": 70
+				},
+				{
+					"code": 900,
+					"value": 155.31
+				},
+				{
+					"code": 902,
+					"value": 272.07
+				},
+				{
+					"code": 908,
+					"value": 12.65
+				},
+				{
+					"code": 909,
+					"value": 25.97
+				},
+				{
+					"code": 910,
+					"value": 11.95
+				},
+				{
+					"code": 927,
+					"value": 70
+				}
+			]
+		},
+		{
+			"date": "2019,7",
+			"mp": 0,
+			"oklad": 636.1,
+			"kurs": 2.06,
+			"payments": [{
+					"code": 6,
+					"time": 18.29,
+					"value": 528.83
+				},
+				{
+					"code": 39,
+					"time": 18.29,
+					"value": 52.88
+				},
+				{
+					"code": 46,
+					"value": 215.79
+				},
+				{
+					"code": 50,
+					"value": 88
+				},
+				{
+					"code": 51,
+					"time": 18.29,
+					"value": 52.88
+				},
+				{
+					"code": 77,
+					"time": 5.68
+				},
+				{
+					"code": 103,
+					"time": 3,
+					"value": 130.81
+				},
+				{
+					"code": 208,
+					"value": 266.22
+				},
+				{
+					"code": 400,
+					"value": 35
+				},
+				{
+					"code": 558,
+					"value": 102
+				},
+				{
+					"code": 900,
+					"value": 178.15
+				},
+				{
+					"code": 902,
+					"value": 279.87
+				},
+				{
+					"code": 908,
+					"value": 13.7
+				},
+				{
+					"code": 909,
+					"value": 97.97
+				},
+				{
+					"code": 910,
+					"value": 13.7
+				},
+				{
+					"code": 927,
+					"value": 213.19
+				}
+			]
+		},
+		{
+			"date": "2019,6",
+			"mp": 0,
+			"oklad": 594.49,
+			"kurs": 2.06,
+			"payments": [{
+					"code": 6,
+					"time": 19.85,
+					"value": 590.03
+				},
+				{
+					"code": 39,
+					"time": 19.85,
+					"value": 59
+				},
+				{
+					"code": 46,
+					"value": 120.5
+				},
+				{
+					"code": 50,
+					"value": 50
+				},
+				{
+					"code": 51,
+					"time": 19.85,
+					"value": 59
+				},
+				{
+					"code": 77,
+					"time": 2
+				},
+				{
+					"code": 208,
+					"value": 216.87
+				},
+				{
+					"code": 900,
+					"value": 142.4
+				},
+				{
+					"code": 902,
+					"value": 259.03
+				},
+				{
+					"code": 908,
+					"value": 10.95
+				},
+				{
+					"code": 909,
+					"value": 70.9
+				},
+				{
+					"code": 910,
+					"value": 10.95
+				}
+			]
+		},
+		{
+			"date": "2019,5",
+			"mp": 0,
+			"oklad": 594.49,
+			"kurs": 2.1,
+			"payments": [{
+					"code": 6,
+					"time": 15.2,
+					"value": 451.81
+				},
+				{
+					"code": 39,
+					"time": 15.2,
+					"value": 45.18
+				},
+				{
+					"code": 46,
+					"value": 88.44
+				},
+				{
+					"code": 50,
+					"value": 45
+				},
+				{
+					"code": 51,
+					"time": 15.2,
+					"value": 45.18
+				},
+				{
+					"code": 77,
+					"time": 2
+				},
+				{
+					"code": 103,
+					"time": 2,
+					"value": 79.54
+				},
+				{
+					"code": 208,
+					"value": 131
+				},
+				{
+					"code": 900,
+					"value": 115.2
+				},
+				{
+					"code": 902,
+					"value": 252.31
+				},
+				{
+					"code": 908,
+					"value": 8.86
+				},
+				{
+					"code": 909,
+					"value": 52.19
+				},
+				{
+					"code": 910,
+					"value": 8.86
+				},
+				{
+					"code": 927,
+					"value": 67.6
+				}
+			]
+		},
+		{
+			"date": "2019,4",
+			"mp": 0,
+			"oklad": 594.49,
+			"kurs": 2.1,
+			"payments": [{
+					"code": 6,
+					"time": 10,
+					"value": 270.22
+				},
+				{
+					"code": 39,
+					"time": 10,
+					"value": 27.02
+				},
+				{
+					"code": 46,
+					"value": 162.68
+				},
+				{
+					"code": 50,
+					"value": 37
+				},
+				{
+					"code": 51,
+					"time": 10,
+					"value": 27
+				},
+				{
+					"code": 70,
+					"time": 2
+				},
+				{
+					"code": 103,
+					"time": 14,
+					"value": 541.7
+				},
+				{
+					"code": 208,
+					"value": 281.43
+				},
+				{
+					"code": 900,
+					"value": 175.12
+				},
+				{
+					"code": 902,
+					"value": 239.03
+				},
+				{
+					"code": 908,
+					"value": 13.47
+				},
+				{
+					"code": 909,
+					"value": 10.91
+				},
+				{
+					"code": 910,
+					"value": 13.47
+				},
+				{
+					"code": 927,
+					"value": 460.45
+				}
+			]
+		},
+		{
+			"date": "2019,3",
+			"mp": 0,
+			"oklad": 594.49,
+			"kurs": 2.1,
+			"payments": [{
+					"code": 6,
+					"time": 19.53,
+					"value": 580.52
+				},
+				{
+					"code": 39,
+					"time": 19.53,
+					"value": 58.05
+				},
+				{
+					"code": 46,
+					"value": 111.51
+				},
+				{
+					"code": 50,
+					"value": 45
+				},
+				{
+					"code": 51,
+					"time": 19.53,
+					"value": 58.05
+				},
+				{
+					"code": 77,
+					"time": 11.77
+				},
+				{
+					"code": 103,
+					"time": 1,
+					"value": 38.69
+				},
+				{
+					"code": 208,
+					"value": 305.92
+				},
+				{
+					"code": 301,
+					"time": 2,
+					"value": 59.45
+				},
+				{
+					"code": 900,
+					"value": 163.43
+				},
+				{
+					"code": 902,
+					"value": 234.37
+				},
+				{
+					"code": 908,
+					"value": 12.57
+				},
+				{
+					"code": 909,
+					"value": 13.66
+				},
+				{
+					"code": 910,
+					"value": 12.57
+				}
+			]
+		},
+		{
+			"date": "2019,2",
+			"mp": 0,
+			"oklad": 594.49,
+			"kurs": 2.14,
+			"payments": [{
+					"code": 6,
+					"time": 22.81,
+					"value": 678.01
+				},
+				{
+					"code": 39,
+					"time": 22.81,
+					"value": 67.8
+				},
+				{
+					"code": 46,
+					"value": 96.93
+				},
+				{
+					"code": 50,
+					"value": 42
+				},
+				{
+					"code": 51,
+					"time": 22.81,
+					"value": 67.8
+				},
+				{
+					"code": 77,
+					"time": 1.48
+				},
+				{
+					"code": 208,
+					"value": 233.18
+				},
+				{
+					"code": 301,
+					"time": 3,
+					"value": 89.17
+				},
+				{
+					"code": 400,
+					"value": 40
+				},
+				{
+					"code": 900,
+					"value": 170.94
+				},
+				{
+					"code": 902,
+					"value": 232.61
+				},
+				{
+					"code": 908,
+					"value": 13.15
+				},
+				{
+					"code": 909,
+					"value": 96.91
+				},
+				{
+					"code": 910,
+					"value": 13.15
+				}
+			]
+		},
+		{
+			"date": "2019,1",
+			"mp": 0,
+			"oklad": 594.49,
+			"kurs": 2.157,
+			"payments": [{
+					"code": 6,
+					"time": 16.99,
+					"value": 480.97
+				},
+				{
+					"code": 39,
+					"time": 16.99,
+					"value": 48.1
+				},
+				{
+					"code": 46,
+					"value": 264.15
+				},
+				{
+					"code": 50,
+					"value": 34
+				},
+				{
+					"code": 51,
+					"time": 16.99,
+					"value": 48.1
+				},
+				{
+					"code": 77,
+					"time": 0.1
+				},
+				{
+					"code": 103,
+					"time": 5,
+					"value": 186.95
+				},
+				{
+					"code": 208,
+					"value": 240.32
+				},
+				{
+					"code": 301,
+					"time": 1,
+					"value": 28.31
+				},
+				{
+					"code": 900,
+					"value": 173.02
+				},
+				{
+					"code": 902,
+					"value": 238.61
+				},
+				{
+					"code": 908,
+					"value": 11.44
+				},
+				{
+					"code": 909,
+					"value": 73.5
+				},
+				{
+					"code": 910,
+					"value": 11.44
+				},
+				{
+					"code": 927,
+					"value": 308.91
+				},
+				{
+					"code": 960,
+					"value": 1.87
+				}
+			]
+		},
+		{
+			"date": "2018,12",
+			"mp": 0,
+			"oklad": 594.49,
+			"kurs": 2.154,
+			"payments": [{
+					"code": 6,
+					"time": 19.36,
+					"value": 575.47
+				},
+				{
+					"code": 39,
+					"time": 19.36,
+					"value": 57.55
+				},
+				{
+					"code": 46,
+					"value": 140.32
+				},
+				{
+					"code": 50,
+					"value": 35
+				},
+				{
+					"code": 51,
+					"time": 19.36,
+					"value": 57.55
+				},
+				{
+					"code": 77,
+					"time": 5.08
+				},
+				{
+					"code": 208,
+					"value": 286.1
+				},
+				{
+					"code": 561,
+					"time": 1,
+					"value": 150
+				},
+				{
+					"code": 900,
+					"value": 149.76
+				},
+				{
+					"code": 902,
+					"value": 231.58
+				},
+				{
+					"code": 908,
+					"value": 13.02
+				},
+				{
+					"code": 909,
+					"value": 62.62
+				},
+				{
+					"code": 910,
+					"value": 13.39
+				}
+			]
+		},
+		{
+			"date": "2018,11",
+			"mp": 0,
+			"oklad": 594.49,
+			"kurs": 2.122,
+			"payments": [{
+					"code": 6,
+					"time": 20.15,
+					"value": 570.43
+				},
+				{
+					"code": 30,
+					"time": 7,
+					"value": 69.45
+				},
+				{
+					"code": 39,
+					"time": 20.15,
+					"value": 63.99
+				},
+				{
+					"code": 46,
+					"value": 103.93
+				},
+				{
+					"code": 50,
+					"value": 40
+				},
+				{
+					"code": 51,
+					"time": 20.15,
+					"value": 57.04
+				},
+				{
+					"code": 77,
+					"time": 6.83
+				},
+				{
+					"code": 208,
+					"value": 181.97
+				},
+				{
+					"code": 900,
+					"value": 141.29
+				},
+				{
+					"code": 902,
+					"value": 235.57
+				},
+				{
+					"code": 908,
+					"value": 10.87
+				},
+				{
+					"code": 909,
+					"value": 101.88
+				},
+				{
+					"code": 910,
+					"value": 10.87
+				}
+			]
+		},
+		{
+			"date": "2018,10",
+			"mp": 0,
+			"oklad": 594.49,
+			"kurs": 2.147,
+			"payments": [{
+					"code": 6,
+					"time": 17.34,
+					"value": 448.19
+				},
+				{
+					"code": 30,
+					"time": 2,
+					"value": 27.17
+				},
+				{
+					"code": 39,
+					"time": 17.34,
+					"value": 47.54
+				},
+				{
+					"code": 46,
+					"value": 202.98
+				},
+				{
+					"code": 50,
+					"value": 35
+				},
+				{
+					"code": 77,
+					"time": 5.32
+				},
+				{
+					"code": 103,
+					"time": 5,
+					"value": 184.31
+				},
+				{
+					"code": 208,
+					"value": 207.98
+				},
+				{
+					"code": 900,
+					"value": 149.91
+				},
+				{
+					"code": 902,
+					"value": 237.01
+				},
+				{
+					"code": 908,
+					"value": 11.53
+				},
+				{
+					"code": 909,
+					"value": 47.93
+				},
+				{
+					"code": 910,
+					"value": 11.53
+				},
+				{
+					"code": 927,
+					"value": 149.2
+				}
+			]
+		},
+		{
+			"date": "2018,9",
+			"mp": 0,
+			"oklad": 566.2,
+			"kurs": 2.126,
+			"payments": [{
+					"code": 6,
+					"time": 15.46,
+					"value": 437.67
+				},
+				{
+					"code": 39,
+					"time": 15.46,
+					"value": 43.77
+				},
+				{
+					"code": 46,
+					"value": 232.14
+				},
+				{
+					"code": 50,
+					"value": 35
+				},
+				{
+					"code": 77,
+					"time": 4.35
+				},
+				{
+					"code": 103,
+					"time": 4,
+					"value": 139.75
+				},
+				{
+					"code": 208,
+					"value": 271.22
+				},
+				{
+					"code": 314,
+					"value": 75
+				},
+				{
+					"code": 560,
+					"value": 30
+				},
+				{
+					"code": 900,
+					"value": 160.49
+				},
+				{
+					"code": 902,
+					"value": 248.23
+				},
+				{
+					"code": 908,
+					"value": 12.65
+				},
+				{
+					"code": 909,
+					"value": 5.58
+				},
+				{
+					"code": 910,
+					"value": 12.35
+				},
+				{
+					"code": 927,
+					"value": 148.79
+				}
+			]
+		},
+		{
+			"date": "2018,8",
+			"mp": 0,
+			"oklad": 566.2,
+			"kurs": 2.139,
+			"payments": [{
+					"code": 6,
+					"time": 19.33,
+					"value": 475.85
+				},
+				{
+					"code": 30,
+					"time": 11,
+					"value": 94.9
+				},
+				{
+					"code": 39,
+					"time": 19.33,
+					"value": 57.08
+				},
+				{
+					"code": 46,
+					"value": 112.42
+				},
+				{
+					"code": 50,
+					"value": 36
+				},
+				{
+					"code": 77,
+					"time": 5.4
+				},
+				{
+					"code": 103,
+					"time": 1,
+					"value": 34.07
+				},
+				{
+					"code": 200,
+					"time": 2,
+					"value": 100.86
+				},
+				{
+					"code": 208,
+					"value": 220.61
+				},
+				{
+					"code": 560,
+					"value": 70
+				},
+				{
+					"code": 900,
+					"value": 147.13
+				},
+				{
+					"code": 902,
+					"value": 269.12
+				},
+				{
+					"code": 908,
+					"value": 12.02
+				},
+				{
+					"code": 909,
+					"value": 75.48
+				},
+				{
+					"code": 910,
+					"value": 11.32
+				},
+				{
+					"code": 927,
+					"value": 98.96
+				}
+			]
+		},
+		{
+			"date": "2018,7",
+			"mp": 0,
+			"oklad": 539.23,
+			"kurs": 2.054,
+			"payments": [{
+					"code": 6,
+					"time": 18.24,
+					"value": 468.36
+				},
+				{
+					"code": 30,
+					"time": 2,
+					"value": 18
+				},
+				{
+					"code": 39,
+					"time": 18.24,
+					"value": 24.32
+				},
+				{
+					"code": 46,
+					"value": 158.92
+				},
+				{
+					"code": 50,
+					"value": 40
+				},
+				{
+					"code": 77,
+					"time": 6.07
+				},
+				{
+					"code": 118,
+					"time": 2,
+					"value": 12.32
+				},
+				{
+					"code": 208,
+					"value": 209.19
+				},
+				{
+					"code": 900,
+					"value": 121.04
+				},
+				{
+					"code": 902,
+					"value": 257.09
+				},
+				{
+					"code": 908,
+					"value": 9.31
+				},
+				{
+					"code": 909,
+					"value": 86.38
+				},
+				{
+					"code": 910,
+					"value": 9.31
+				}
+			]
+		},
+		{
+			"date": "2018,6",
+			"mp": 0,
+			"oklad": 539.23,
+			"kurs": 1.97,
+			"payments": [{
+					"code": 6,
+					"time": 17.96,
+					"value": 461.17
+				},
+				{
+					"code": 39,
+					"time": 17.96,
+					"value": 23.06
+				},
+				{
+					"code": 46,
+					"value": 103.2
+				},
+				{
+					"code": 50,
+					"value": 125
+				},
+				{
+					"code": 77,
+					"time": 16.33
+				},
+				{
+					"code": 103,
+					"time": 1,
+					"value": 32.44
+				},
+				{
+					"code": 208,
+					"value": 215.52
+				},
+				{
+					"code": 900,
+					"value": 124.85
+				},
+				{
+					"code": 902,
+					"value": 243.59
+				},
+				{
+					"code": 908,
+					"value": 9.6
+				},
+				{
+					"code": 909,
+					"value": 82.67
+				},
+				{
+					"code": 910,
+					"value": 9.6
+				},
+				{
+					"code": 927,
+					"value": 27.57
+				}
+			]
+		},
+		{
+			"date": "2018,5",
+			"mp": 0,
+			"oklad": 539.23,
+			"kurs": 1.997,
+			"payments": [{
+					"code": 6,
+					"time": 20.56,
+					"value": 527.93
+				},
+				{
+					"code": 39,
+					"time": 20.56,
+					"value": 26.4
+				},
+				{
+					"code": 46,
+					"value": 81.74
+				},
+				{
+					"code": 50,
+					"value": 50
+				},
+				{
+					"code": 77,
+					"time": 3.5
+				},
+				{
+					"code": 208,
+					"value": 152.55
+				},
+				{
+					"code": 900,
+					"value": 109.02
+				},
+				{
+					"code": 902,
+					"value": 236
+				},
+				{
+					"code": 908,
+					"value": 8.39
+				},
+				{
+					"code": 909,
+					"value": 90.73
+				},
+				{
+					"code": 910,
+					"value": 8.39
+				}
+			]
+		},
+		{
+			"date": "2018,4",
+			"mp": 0,
+			"oklad": 539.23,
+			"payments": [{
+					"code": 6,
+					"time": 13.86,
+					"value": 373.69
+				},
+				{
+					"code": 39,
+					"time": 13.86,
+					"value": 18.68
+				},
+				{
+					"code": 46,
+					"value": 133.84
+				},
+				{
+					"code": 50,
+					"value": 45
+				},
+				{
+					"code": 77,
+					"time": 1.13
+				},
+				{
+					"code": 103,
+					"time": 6,
+					"value": 185.41
+				},
+				{
+					"code": 208,
+					"value": 231.67
+				},
+				{
+					"code": 216,
+					"value": 41.68
+				},
+				{
+					"code": 900,
+					"value": 133.9
+				},
+				{
+					"code": 902,
+					"value": 225.54
+				},
+				{
+					"code": 908,
+					"value": 10.3
+				},
+				{
+					"code": 909,
+					"value": 17.85
+				},
+				{
+					"code": 910,
+					"value": 10.3
+				},
+				{
+					"code": 927,
+					"value": 157.6
+				}
+			]
+		},
+		{
+			"date": "2018,3",
+			"mp": 0,
+			"oklad": 539.23,
+			"payments": [{
+					"code": 6,
+					"time": 19.89,
+					"value": 510.73
+				},
+				{
+					"code": 39,
+					"time": 19.89,
+					"value": 25.54
+				},
+				{
+					"code": 46,
+					"value": 133.14
+				},
+				{
+					"code": 50,
+					"value": 45
+				},
+				{
+					"code": 77,
+					"time": 0.9
+				},
+				{
+					"code": 200,
+					"time": 1,
+					"value": 41.81
+				},
+				{
+					"code": 208,
+					"value": 261.45
+				},
+				{
+					"code": 900,
+					"value": 132.3
+				},
+				{
+					"code": 902,
+					"value": 218.41
+				},
+				{
+					"code": 908,
+					"value": 10.18
+				},
+				{
+					"code": 909,
+					"value": 64.31
+				},
+				{
+					"code": 910,
+					"value": 10.18
+				}
+			]
+		},
+		{
+			"date": "2018,2",
+			"mp": 0,
+			"oklad": 539.23,
+			"payments": [{
+					"code": 6,
+					"time": 22.86,
+					"value": 616.34
+				},
+				{
+					"code": 39,
+					"time": 22.86,
+					"value": 30.81
+				},
+				{
+					"code": 46,
+					"value": 52.96
+				},
+				{
+					"code": 50,
+					"value": 45
+				},
+				{
+					"code": 77,
+					"time": 1.12
+				},
+				{
+					"code": 208,
+					"value": 95.55
+				},
+				{
+					"code": 301,
+					"value": 80.88
+				},
+				{
+					"code": 900,
+					"value": 119.8
+				},
+				{
+					"code": 902,
+					"value": 219.35
+				},
+				{
+					"code": 908,
+					"value": 9.22
+				},
+				{
+					"code": 909,
+					"value": 46.99
+				},
+				{
+					"code": 910,
+					"value": 9.22
+				}
+			]
+		},
+		{
+			"date": "2018,1",
+			"mp": 0,
+			"oklad": 539.23,
+			"payments": [{
+					"code": 6,
+					"time": 9.19,
+					"value": 225.25
+				},
+				{
+					"code": 39,
+					"time": 9.19,
+					"value": 11.26
+				},
+				{
+					"code": 46,
+					"value": 192.38
+				},
+				{
+					"code": 50,
+					"value": 40
+				},
+				{
+					"code": 77,
+					"time": 6.48
+				},
+				{
+					"code": 103,
+					"time": 15,
+					"value": 432.16
+				},
+				{
+					"code": 208,
+					"value": 196.4
+				},
+				{
+					"code": 400,
+					"value": 40
+				},
+				{
+					"code": 558,
+					"value": 98
+				},
+				{
+					"code": 900,
+					"value": 147.86
+				},
+				{
+					"code": 902,
+					"value": 216.24
+				},
+				{
+					"code": 908,
+					"value": 11.37
+				},
+				{
+					"code": 909,
+					"value": 27.56
+				},
+				{
+					"code": 910,
+					"value": 11.37
+				},
+				{
+					"code": 927,
+					"value": 465.34
+				}
+			]
+		},
+		{
+			"date": "2017,12",
+			"mp": 0,
+			"oklad": 514.72,
+			"payments": [{
+					"code": 6,
+					"time": 18.89,
+					"value": 463.00
+				},
+				{
+					"code": 39,
+					"time": 18.89,
+					"value": 23.15
+				},
+				{
+					"code": 46,
+					"value": 113.21
+				},
+				{
+					"code": 50,
+					"value": 90
+				},
+				{
+					"code": 77,
+					"time": 1
+				},
+				{
+					"code": 103,
+					"time": 1,
+					"value": 28.51
+				},
+				{
+					"code": 208,
+					"value": 203.65
+				},
+				{
+					"code": 216,
+					"value": 25.18
+				},
+				{
+					"code": 400,
+					"value": 20
+				},
+				{
+					"code": 561,
+					"value": 155
+				},
+				{
+					"code": 900,
+					"value": 125.67
+				},
+				{
+					"code": 902,
+					"value": 239.12
+				},
+				{
+					"code": 908,
+					"value": 11.22
+				},
+				{
+					"code": 909,
+					"value": 33.9
+				},
+				{
+					"code": 910,
+					"value": 9.67
+				},
+				{
+					"code": 927,
+					"value": 144.23
+				}
+			]
+		},
+		{
+			"date": "2017,11",
+			"mp": 0,
+			"oklad": 514.72,
+			"payments": [{
+					"code": 6,
+					"time": 20.52,
+					"value": 480.09
+				},
+				{
+					"code": 39,
+					"time": 20.52,
+					"value": 24
+				},
+				{
+					"code": 46,
+					"value": 124.35
+				},
+				{
+					"code": 50,
+					"value": 35
+				},
+				{
+					"code": 77,
+					"time": 3.82
+				},
+				{
+					"code": 103,
+					"time": 1,
+					"value": 28.12
+				},
+				{
+					"code": 208,
+					"value": 174.58
+				},
+				{
+					"code": 900,
+					"value": 112.6
+				},
+				{
+					"code": 902,
+					"value": 207.89
+				},
+				{
+					"code": 908,
+					"value": 8.71
+				},
+				{
+					"code": 909,
+					"value": 101.96
+				},
+				{
+					"code": 910,
+					"value": 8.66
+				},
+				{
+					"code": 927,
+					"value": 23.09
+				}
+			]
+		},
+		{
+			"date": "2017,10",
+			"mp": 0,
+			"oklad": 514.72,
+			"payments": [{
+					"code": 6,
+					"time": 17.59,
+					"value": 411.54
+				},
+				{
+					"code": 39,
+					"time": 17.59,
+					"value": 20.58
+				},
+				{
+					"code": 46,
+					"value": 152.54
+				},
+				{
+					"code": 50,
+					"value": 81
+				},
+				{
+					"code": 77,
+					"time": 3.32
+				},
+				{
+					"code": 192,
+					"value": 164.08
+				},
+				{
+					"code": 208,
+					"value": 238.2
+				},
+				{
+					"code": 900,
+					"value": 138.83
+				},
+				{
+					"code": 902,
+					"value": 212.79
+				},
+				{
+					"code": 908,
+					"value": 10.68
+				},
+				{
+					"code": 909,
+					"value": 87.87
+				},
+				{
+					"code": 910,
+					"value": 10.68
+				}
+			]
+		},
+		{
+			"date": "2017,9",
+			"mp": 0,
+			"oklad": 514.72,
+			"payments": [{
+					"code": 6,
+					"time": 22.91,
+					"value": 561.53
+				},
+				{
+					"code": 39,
+					"time": 22.91,
+					"value": 28.08
+				},
+				{
+					"code": 46,
+					"value": 167.67
+				},
+				{
+					"code": 50,
+					"value": 35
+				},
+				{
+					"code": 77,
+					"time": 0.72
+				},
+				{
+					"code": 208,
+					"value": 210.08
+				},
+				{
+					"code": 301,
+					"time": 2,
+					"value": 49.02
+				},
+				{
+					"code": 314,
+					"value": 80
+				},
+				{
+					"code": 560,
+					"value": 30
+				},
+				{
+					"code": 900,
+					"value": 147.08
+				},
+				{
+					"code": 902,
+					"value": 211.04
+				},
+				{
+					"code": 908,
+					"value": 11.66
+				},
+				{
+					"code": 909,
+					"value": 54.39
+				},
+				{
+					"code": 910,
+					"value": 11.31
+				},
+				{
+					"code": 927,
+					"value": 30
+				}
+			]
+		},
+		{
+			"date": "2017,8",
+			"mp": 0,
+			"oklad": 514.72,
+			"payments": [{
+					"code": 6,
+					"time": 22.13,
+					"value": 495.25
+				},
+				{
+					"code": 39,
+					"time": 22.13,
+					"value": 24.76
+				},
+				{
+					"code": 46,
+					"value": 71.37
+				},
+				{
+					"code": 50,
+					"value": 50
+				},
+				{
+					"code": 77,
+					"time": 6.97
+				},
+				{
+					"code": 208,
+					"value": 165.75
+				},
+				{
+					"code": 560,
+					"value": 70
+				},
+				{
+					"code": 900,
+					"value": 104.93
+				},
+				{
+					"code": 902,
+					"value": 236.77
+				},
+				{
+					"code": 908,
+					"value": 8.77
+				},
+				{
+					"code": 909,
+					"value": 84.49
+				},
+				{
+					"code": 910,
+					"value": 8.07
+				},
+				{
+					"code": 927,
+					"value": 70
+				}
+			]
+		},
+		{
+			"date": "2017,7",
+			"mp": 0,
+			"oklad": 514.72,
+			"payments": [{
+					"code": 6,
+					"time": 15.19,
+					"value": 390.93
+				},
+				{
+					"code": 46,
+					"value": 73.48
+				},
+				{
+					"code": 50,
+					"value": 40
+				},
+				{
+					"code": 70,
+					"time": 2
+				},
+				{
+					"code": 77,
+					"time": 6.45
+				},
+				{
+					"code": 103,
+					"time": 2,
+					"value": 51.04
+				},
+				{
+					"code": 208,
+					"value": 179.6
+				},
+				{
+					"code": 900,
+					"value": 95.56
+				},
+				{
+					"code": 902,
+					"value": 241.92
+				},
+				{
+					"code": 908,
+					"value": 7.35
+				},
+				{
+					"code": 909,
+					"value": 54.93
+				},
+				{
+					"code": 910,
+					"value": 7.35
+				},
+				{
+					"code": 927,
+					"value": 43.38
+				}
+			]
+		},
+		{
+			"date": "2017,6",
+			"mp": 0,
+			"oklad": 514.72,
+			"payments": [{
+					"code": 6,
+					"time": 17.77,
+					"value": 415.75
+				},
+				{
+					"code": 46,
+					"value": 57.08
+				},
+				{
+					"code": 50,
+					"value": 40
+				},
+				{
+					"code": 70,
+					"time": 2
+				},
+				{
+					"code": 77,
+					"time": 1.85
+				},
+				{
+					"code": 208,
+					"value": 120.07
+				},
+				{
+					"code": 900,
+					"value": 88.44
+				},
+				{
+					"code": 902,
+					"value": 226.48
+				},
+				{
+					"code": 908,
+					"value": 6.33
+				},
+				{
+					"code": 909,
+					"value": 37.05
+				},
+				{
+					"code": 910,
+					"value": 6.33
+				}
+			]
+		},
+		{
+			"date": "2017,5",
+			"mp": 0,
+			"oklad": 490.21,
+			"payments": [{
+					"code": 6,
+					"time": 11.38,
+					"value": 265.65
+				},
+				{
+					"code": 46,
+					"value": 85.38
+				},
+				{
+					"code": 50,
+					"value": 46
+				},
+				{
+					"code": 70,
+					"time": 1
+				},
+				{
+					"code": 77,
+					"time": 4.98
+				},
+				{
+					"code": 103,
+					"time": 12,
+					"value": 284.38
+				},
+				{
+					"code": 208,
+					"value": 214.35
+				},
+				{
+					"code": 900,
+					"value": 110.29
+				},
+				{
+					"code": 902,
+					"value": 215.69
+				},
+				{
+					"code": 908,
+					"value": 8.48
+				},
+				{
+					"code": 909,
+					"value": 5.62
+				},
+				{
+					"code": 910,
+					"value": 9.43
+				},
+				{
+					"code": 927,
+					"value": 241.72
+				}
+			]
+		},
+		{
+			"date": "2017,4",
+			"mp": 0,
+			"oklad": 490.21,
+			"payments": [{
+					"code": 6,
+					"time": 17.11,
+					"value": 465.97
+				},
+				{
+					"code": 46,
+					"value": 60.64
+				},
+				{
+					"code": 50,
+					"value": 40
+				},
+				{
+					"code": 77,
+					"time": 7.12
+				},
+				{
+					"code": 208,
+					"value": 96.04
+				},
+				{
+					"code": 900,
+					"value": 86.14
+				},
+				{
+					"code": 902,
+					"value": 205.89
+				},
+				{
+					"code": 908,
+					"value": 6.63
+				},
+				{
+					"code": 909,
+					"value": 40.65
+				},
+				{
+					"code": 910,
+					"value": 6.63
+				}
+			]
+		},
+		{
+			"date": "2017,3",
+			"mp": 0,
+			"oklad": 490.21,
+			"payments": [{
+					"code": 6,
+					"time": 9.37,
+					"value": 208.78
+				},
+				{
+					"code": 46,
+					"value": 84.38
+				},
+				{
+					"code": 50,
+					"value": 77
+				},
+				{
+					"code": 77,
+					"time": 5.03
+				},
+				{
+					"code": 103,
+					"time": 16,
+					"value": 364.09
+				},
+				{
+					"code": 208,
+					"value": 150.63
+				},
+				{
+					"code": 558,
+					"value": 92
+				},
+				{
+					"code": 900,
+					"value": 115.03
+				},
+				{
+					"code": 902,
+					"value": 200.99
+				},
+				{
+					"code": 908,
+					"value": 8.85
+				},
+				{
+					"code": 909,
+					"value": 29.89
+				},
+				{
+					"code": 910,
+					"value": 8.85
+				},
+				{
+					"code": 927,
+					"value": 401.48
+				}
+			]
+		},
+		{
+			"date": "2017,2",
+			"mp": 0,
+			"oklad": 490.21,
+			"payments": [{
+					"code": 6,
+					"time": 13.36,
+					"value": 327.46
+				},
+				{
+					"code": 46,
+					"value": 95.2
+				},
+				{
+					"code": 50,
+					"value": 55
+				},
+				{
+					"code": 70,
+					"time": 1
+				},
+				{
+					"code": 77,
+					"time": 5.12
+				},
+				{
+					"code": 85,
+					"time": 7,
+					"value": 115.57
+				},
+				{
+					"code": 208,
+					"value": 216.91
+				},
+				{
+					"code": 900,
+					"value": 105.32
+				},
+				{
+					"code": 902,
+					"value": 205.89
+				},
+				{
+					"code": 908,
+					"value": 6.95
+				},
+				{
+					"code": 909,
+					"value": 34.72
+				},
+				{
+					"code": 910,
+					"value": 6.95
+				}
+			]
+		},
+		{
+			"date": "2017,1",
+			"mp": 0,
+			"oklad": 490.21,
+			"payments": [{
+					"code": 6,
+					"time": 20.2,
+					"value": 471.54
+				},
+				{
+					"code": 50,
+					"value": 28
+				},
+				{
+					"code": 77,
+					"time": 6.33
+				},
+				{
+					"code": 208,
+					"value": 162.53
+				},
+				{
+					"code": 314,
+					"value": 100
+				},
+				{
+					"code": 900,
+					"value": 89.97
+				},
+				{
+					"code": 902,
+					"value": 205.89
+				},
+				{
+					"code": 908,
+					"value": 6.92
+				},
+				{
+					"code": 910,
+					"value": 6.92
+				},
+				{
+					"code": 927,
+					"value": 100
+				}
+			]
+		},
+		{
+			"date": "2016,12",
+			"mp": 0,
+			"oklad": 466.86,
+			"payments": [{
+					"code": 6,
+					"time": 16.65,
+					"value": 353.33
+				},
+				{
+					"code": 50,
+					"value": 27
+				},
+				{
+					"code": 70,
+					"time": 3
+				},
+				{
+					"code": 77,
+					"time": 17.23
+				},
+				{
+					"code": 199,
+					"time": 0.2,
+					"value": 6.37
+				},
+				{
+					"code": 208,
+					"value": 187.93
+				},
+				{
+					"code": 561,
+					"value": 100
+				},
+				{
+					"code": 900,
+					"value": 74.7
+				},
+				{
+					"code": 902,
+					"value": 196.08
+				},
+				{
+					"code": 908,
+					"value": 6.75
+				},
+				{
+					"code": 910,
+					"value": 5.75
+				},
+				{
+					"code": 927,
+					"value": 100
+				}
+			]
+		},
+		{
+			"date": "2016,11",
+			"mp": 0,
+			"oklad": 466.86,
+			"payments": [{
+					"code": 6,
+					"time": 20.5,
+					"value": 435.03
+				},
+				{
+					"code": 50,
+					"value": 56
+				},
+				{
+					"code": 77,
+					"time": 12
+				},
+				{
+					"code": 208,
+					"value": 187.93
+				},
+				{
+					"code": 900,
+					"value": 88.26
+				},
+				{
+					"code": 902,
+					"value": 219.42
+				},
+				{
+					"code": 908,
+					"value": 6.79
+				},
+				{
+					"code": 910,
+					"value": 6.79
+				}
+			]
+		},
+		{
+			"date": "2016,10",
+			"mp": 0,
+			"oklad": 466.86,
+			"payments": [{
+					"code": 6,
+					"time": 20.5,
+					"value": 435.03
+				},
+				{
+					"code": 50,
+					"value": 30
+				},
+				{
+					"code": 70,
+					"time": 1
+				},
+				{
+					"code": 77,
+					"time": 4
+				},
+				{
+					"code": 208,
+					"value": 192.86
+				},
+				{
+					"code": 900,
+					"value": 85.53
+				},
+				{
+					"code": 902,
+					"value": 228.76
+				},
+				{
+					"code": 908,
+					"value": 6.64
+				},
+				{
+					"code": 910,
+					"value": 6.58
+				}
+			]
+		},
+		{
+			"date": "2016,9",
+			"mp": 0,
+			"oklad": 466.86,
+			"payments": [{
+					"code": 6,
+					"time": 20.45,
+					"value": 433.97
+				},
+				{
+					"code": 50,
+					"value": 25
+				},
+				{
+					"code": 77,
+					"time": 12.42
+				},
+				{
+					"code": 208,
+					"value": 210.45
+				},
+				{
+					"code": 314,
+					"value": 70
+				},
+				{
+					"code": 560,
+					"value": 30
+				},
+				{
+					"code": 900,
+					"value": 96.12
+				},
+				{
+					"code": 902,
+					"value": 238.1
+				},
+				{
+					"code": 908,
+					"value": 7.69
+				},
+				{
+					"code": 910,
+					"value": 7.39
+				},
+				{
+					"code": 927,
+					"value": 30
+				},
+				{
+					"code": 941,
+					"value": 25
+				}
+			]
+		},
+		{
+			"date": "2016,8",
+			"mp": 0,
+			"oklad": 466.86,
+			"payments": [{
+					"code": 6,
+					"time": 24,
+					"value": 487.16
+				},
+				{
+					"code": 50,
+					"value": 32
+				},
+				{
+					"code": 208,
+					"value": 38.42
+				},
+				{
+					"code": 301,
+					"time": 1,
+					"value": 20.3
+				},
+				{
+					"code": 560,
+					"value": 70
+				},
+				{
+					"code": 900,
+					"value": 75.12
+				},
+				{
+					"code": 902,
+					"value": 22.32
+				},
+				{
+					"code": 908,
+					"value": 6.48
+				},
+				{
+					"code": 910,
+					"value": 5.78
+				},
+				{
+					"code": 927,
+					"value": 70
+				}
+			]
+		},
+		{
+			"date": "2016,7",
+			"mp": 0,
+			"oklad": 444.63,
+			"payments": [{
+					"code": 6,
+					"time": 4,
+					"value": 88.93
+				},
+				{
+					"code": 118,
+					"time": 1,
+					"value": 5.4
+				},
+				{
+					"code": 900,
+					"value": 1.47
+				},
+				{
+					"code": 908,
+					"value": 0.94
+				},
+				{
+					"code": 910,
+					"value": 0.94
+				}
+			]
+		}
+	]
+}
